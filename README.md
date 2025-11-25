@@ -147,7 +147,9 @@ This will start:
 
 ```bash
 # Terminal 1 - LiveKit Server
-livekit-server --dev
+.\livekit-server --dev
+# OR if it's .exe
+.\livekit-server.exe --dev
 
 # Terminal 2 - Backend Agent
 cd backend
