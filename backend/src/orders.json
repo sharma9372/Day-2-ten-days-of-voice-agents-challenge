@@ -1,0 +1,80 @@
+[
+  {
+    "id": "order-09ce207c",
+    "items": [
+      {
+        "product_id": "hoodie-002",
+        "name": "Black Zip Hoodie",
+        "unit_price": 1299,
+        "quantity": 1,
+        "line_total": 1299,
+        "attrs": {
+          "size": "M"
+        }
+      },
+      {
+        "product_id": "mug-001",
+        "name": "Stoneware Chai Mug",
+        "unit_price": 299,
+        "quantity": 2,
+        "line_total": 598,
+        "attrs": {}
+      }
+    ],
+    "total": 1897,
+    "currency": "INR",
+    "created_at": "2025-11-30T12:02:23.656286Z"
+  },
+  {
+    "id": "order-c14c8ce4",
+    "items": [
+      {
+        "product_id": "hoodie-002",
+        "name": "Black Zip Hoodie",
+        "unit_price": 1299,
+        "quantity": 1,
+        "line_total": 1299,
+        "attrs": {
+          "size": "M"
+        }
+      },
+      {
+        "product_id": "mug-001",
+        "name": "Stoneware Chai Mug",
+        "unit_price": 299,
+        "quantity": 1,
+        "line_total": 299,
+        "attrs": {}
+      },
+      {
+        "product_id": "tee-004",
+        "name": "Premium Polo Tee",
+        "unit_price": 999,
+        "quantity": 1,
+        "line_total": 999,
+        "attrs": {
+          "size": "M"
+        }
+      },
+      {
+        "product_id": "laptop-003",
+        "name": "Lenovo ThinkPad",
+        "unit_price": 60000,
+        "quantity": 1,
+        "line_total": 60000,
+        "attrs": {}
+      },
+      {
+        "product_id": "laptop-003",
+        "name": "Lenovo ThinkPad",
+        "unit_price": 60000,
+        "quantity": 1,
+        "line_total": 60000,
+        "attrs": {}
+      }
+    ],
+    "total": 122597,
+    "currency": "INR",
+    "created_at": "2025-11-30T12:08:40.742561Z"
+  }
+]
